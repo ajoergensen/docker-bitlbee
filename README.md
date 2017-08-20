@@ -1,5 +1,5 @@
 Bitlbee
-#######
+=======
 
 [Bitlbee](https://www.bitlbee.org/main.php/news.r.html) is an IRC to other chat networks gateway
 
